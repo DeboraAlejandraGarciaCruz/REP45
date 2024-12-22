@@ -1,4 +1,4 @@
-# Generador de Contraseñas Segurashjklñ
+# Generador de Contraseñas Segurashjk
 
 Esta es una aplicación web que permite generar contraseñas seguras al azar. El usuario puede seleccionar diferentes opciones para definir la longitud y qué tipos de caracteres incluir en la contraseña generada.
 
