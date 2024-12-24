@@ -22,4 +22,4 @@ Esta es una aplicación web que permite generar contraseñas seguras al azar. El
 - `script.js`: Lógica de generación de contraseñas y manejo de eventos.
 
 ## Autor
-Debora Alejandra Garci
+Debora Alejandra Garcia
